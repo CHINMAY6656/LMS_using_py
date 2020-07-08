@@ -30,7 +30,7 @@
 
 ### TEST ESSENTIALS
 
-###librarian ID = SITBBSRLIBRN751021
-###admin ID = SITBBSRADMN751021
-###librarian Password = S_I_T_BBsiliconR751021LBRN
-###admin Password = S_I_T_BBsiliconR751021ADMN
+### librarian ID - SITBBSRLIBRN751021
+### admin ID - SITBBSRADMN751021
+### librarian Password - S_I_T_BBsiliconR751021LBRN
+### admin Password - S_I_T_BBsiliconR751021ADMN
