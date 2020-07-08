@@ -2,7 +2,7 @@
                                            LIBRARY MANAGEMENT SYSTEM
                                            _________________________
   
-  This is project created by the GROUP-15 students.
+  This is project created by the CHINMAY ANAND PANDA.
   
   The library management system contains:
                  1.ADMIN MODULE
